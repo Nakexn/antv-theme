@@ -3,7 +3,6 @@ module.exports = {
     {
       resolve: '@antv/gatsby-theme-antv',
       options: {
-        pwa: false,
         cname: false
       }
     }
