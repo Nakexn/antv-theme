@@ -2,7 +2,7 @@ module.exports = {
   plugins: [
     {
       resolve: '@antv/gatsby-theme-antv',
-      options: {}
+      options: { cname: true }
     }
   ],
   siteMetadata: {
