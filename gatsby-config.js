@@ -8,8 +8,8 @@ module.exports = {
   siteMetadata: {
     title: 'AntV',
     description: 'Gatsby starter of antv theme',
-    siteUrl: 'https://gatsby-starter-theme-antv.antv.vision',
-    githubUrl: 'https://github.com/antvis/antvis.github.io',
+    siteUrl: 'http://nargb.com/antv-theme/',
+    githubUrl: 'https://github.com/Nakexn/antv-theme.git',
     navs: [
       {
         slug: 'docs/specification/getting-started',
@@ -62,7 +62,7 @@ module.exports = {
         }
       }
     ],
-    showSearch: false, // 是否展示搜索框
+    showSearch: true, // 是否展示搜索框
     showChinaMirror: false, // 是否展示国内镜像链接
     showAntVProductsCard: false, // 是否展示 AntV 系列产品的卡片链接
     showLanguageSwitcher: true, // 用于定义是否展示语言切换
