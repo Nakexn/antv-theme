@@ -2,13 +2,13 @@ module.exports = {
   plugins: [
     {
       resolve: '@antv/gatsby-theme-antv',
-      options: { cname: true }
+      options: { cname: false, pwa: false }
     }
   ],
   siteMetadata: {
     title: 'AntV',
     description: 'Gatsby starter of antv theme',
-    siteUrl: 'http://nargb.com/antv-theme/',
+    siteUrl: 'https://nargb.com/antv-theme/',
     githubUrl: 'https://github.com/Nakexn/antv-theme.git',
     navs: [
       {
