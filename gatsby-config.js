@@ -8,7 +8,7 @@ module.exports = {
   siteMetadata: {
     title: 'AntV',
     description: 'Gatsby starter of antv theme',
-    siteUrl: 'https://nargb.com/antv-theme/',
+    siteUrl: 'https://antv.nargb.com/',
     githubUrl: 'https://github.com/Nakexn/antv-theme.git',
     navs: [
       {
